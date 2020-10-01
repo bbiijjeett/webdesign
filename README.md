@@ -1,6 +1,6 @@
 #Live
 https://bijeet2001.github.io/webdesign/djsnake.html
-# webdesign
+# webdesign using html and css
 modern responsive web design
 mail - bijeetnathbtech@gmail.com
 # Pure CSS Multilayer Parallax
