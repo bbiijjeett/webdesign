@@ -1,5 +1,5 @@
 #Live
-https://bijeet2001.github.io/webdesign/djsnake.html
+https://bbiijjeett.github.io/webdesign/djsnake.html
 # webdesign
 modern responsive web design
 mail - bijeetnathbtech@gmail.com
